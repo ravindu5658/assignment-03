@@ -1,10 +1,13 @@
-# assignment-03 
+# assignment-03
+
 ## Overview
  I completed this assignment using Jupyter Notebook.
+ 
 ## Files included from.
- Assignment_3.html: 
-script.py: A Python  
-requirements.txt: 
+* Assignment_3.html: 
+* script.py: A Python  
+* requirements.txt:
+  
 ## Technologies used from.
-Python
-Jupyter Notebook
+* Python
+* Jupyter Notebook
