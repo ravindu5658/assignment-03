@@ -1,4 +1,4 @@
-# assignment-03
+# assignment-03 computer science
 
 ## Overview
  I completed this assignment using Jupyter Notebook.
